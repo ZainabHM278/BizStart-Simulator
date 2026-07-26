@@ -113,6 +113,15 @@ Many first-time entrepreneurs — especially students and early-career founders 
 - [ ] Add downloadable PDF export of generated business plans (in addition to the current .txt strategic report)
 - [ ] Support multiple currency and market presets
 
+## Recognition
+ 
+BizStart Simulator was selected as an **AI Showcase Featured Project** at the Kanz AI Training Hackathon, described as an *"Autonomous Financial Risk & Runway Modeling Engine for Early-Stage Founders."*
+ 
+<details>
+<summary>View certificate of workshop completion</summary>
+<img src="./assets/kanz-certificate.png" alt="Kanz AI Training Hackathon Certificate of Workshop Completion - Zainab Almahal" width="500" />
+</details>
+
 ## Support
 For questions or issues, please open an [issue](https://github.com/ZainabHM278/bizstart-simulator/issues) on this repository.
 
