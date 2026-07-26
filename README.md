@@ -131,5 +131,6 @@ This is a hackathon submission and not currently open to external contributions,
 ## Author
 **Zainab Al-Mahal (ZainabHM278)**
 GitHub: [github.com/ZainabHM278](https://github.com/ZainabHM278)
+LinkedIn: [linkedin.com/in/zainab-almahal-6a5b681b3](https://www.linkedin.com/in/zainab-almahal-6a5b681b3)
 
 
