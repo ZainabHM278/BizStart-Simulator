@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "BizStart Simulator"
+version = "1.0.0"
+id = "artifacts/bizstart-simulator"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23035
+
+[services.development]
+run = "pnpm --filter @workspace/bizstart-simulator run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/bizstart-simulator", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/bizstart-simulator/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23035"
+BASE_PATH = "/"
