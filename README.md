@@ -18,7 +18,7 @@ A business plan and financial model generator built for the **Kanz AI Hackathon*
 BizStart Simulator helps aspiring entrepreneurs turn a business idea into a realistic, visual financial model in minutes — no spreadsheet skills required. Enter your business details, and it generates projections, cost/revenue breakdowns, and interactive charts you can use to plan or pitch.
 
 <!-- Add a GIF or screenshot here once you've recorded one, e.g.: -->
-![BizStart Simulator demo](./screenshots/demo.gif) 
+![BizStart Simulator demo](./assets/demo11.mp4) 
 
 **Live demo:** [BizStart Simulator on Replit](https://replit.com/@zainabh456/BizStart-Simulator)
 **Hackathon portfolio:** [Kanz AI Hackathon submission](https://try.ka.nz/ai/zainabalmahal)
