@@ -9,9 +9,7 @@ A business plan and financial model generator built for the **Kanz AI Hackathon*
 ![Status](https://img.shields.io/badge/status-hackathon%20submission-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-🏆 **Guinness World Records™ — Kanz AI Training Hackathon, July 2026** (14,075 live participants)
-
-![Guinness World Records Badge](./assets/gwr-badge.png)
+<img src="./assets/gwr-badge.png" alt="Guinness World Records - Kanz AI Training Hackathon July 2026, 14,075 live participants" width="320" />
 
 ---
 
