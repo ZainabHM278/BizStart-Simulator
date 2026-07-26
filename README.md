@@ -123,8 +123,4 @@ This is a hackathon submission and not currently open to external contributions,
 **Zainab Al-Mahal (ZainabHM278)**
 GitHub: [github.com/ZainabHM278](https://github.com/ZainabHM278)
 
-## License
-This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
-## Project Status
-Actively maintained as part of an ongoing hackathon submission (Kanz AI Hackathon). Open to iteration and improvement post-submission.
